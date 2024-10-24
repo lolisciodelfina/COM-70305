@@ -12,7 +12,6 @@ let product = [
         category:"Coffee",
         precio: 2300
     },
-
     {id: 3,
         nombre: "Café con leche",
         category:"Coffee",
